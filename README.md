@@ -16,7 +16,7 @@ harness/instructions.py         Loads agent instructions from Markdown
 harness/web_search.py           Responses API web search
 harness/flights.py              Criteria extraction; up to five web attempts
 memory/travel_memory.md         Persistent concise travel facts
-skills/travel_agent.md          Agent role, safety and travel skills instructions
+skills/agent_role.md            Agent role, safety and travel skills instructions
 payments/wallet/README.md       Future Ethereum wallet slot (no implementation)
 payments/mcp/sandboxes.py       Inactive Stripe/PayPal/Square sandbox stubs
 requirements.txt                Latest compatible Gradio/OpenAI
